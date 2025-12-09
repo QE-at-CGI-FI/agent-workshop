@@ -1,11 +1,20 @@
 # agent-workshop
 Workshop for creating agents for testing purposes with GitHub Copilot. 
 
+![agent-blocks](./agent-blocks.png)
+
 We are building **context**:
 
 - system prompt (hidden) +
 - copilot-instructions.md +
 - *.agent.md
+
+And choosing **tools**:
+- built-in
+- playwright
+- selenium
+- github
+- atlassian rovo
 
 ## Playwright Agents
 
