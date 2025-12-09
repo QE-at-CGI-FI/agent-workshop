@@ -35,4 +35,6 @@ Install agents (if you did not bring them in with this repo or want to update)
 
 ## Inspirations
 
-- Beast mode https://gist.github.com/burkeholland/88af0249c4b6aff3820bf37898c8bacf
+- Beast mode [link](https://gist.github.com/burkeholland/88af0249c4b6aff3820bf37898c8bacf)
+
+- Explore Iltasanomat SDET-orchestrator [link](https://github.com/QE-at-CGI-FI/explore-is-live-site-with-pw-agents/tree/main)
