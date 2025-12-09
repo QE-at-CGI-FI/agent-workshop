@@ -2,9 +2,10 @@
 Workshop for creating agents for testing purposes with GitHub Copilot. 
 
 We are building **context**:
-system prompt (hidden) +
-copilot-instructions.md
-*.agent.md
+
+- system prompt (hidden) +
+- copilot-instructions.md +
+- *.agent.md
 
 ## Playwright Agents
 
