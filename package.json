@@ -1,0 +1,23 @@
+{
+  "name": "agent-workshop",
+  "version": "1.0.0",
+  "description": "Workshop for creating agents for testing purposes with GitHub Copilot.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QE-at-CGI-FI/agent-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/QE-at-CGI-FI/agent-workshop/issues"
+  },
+  "homepage": "https://github.com/QE-at-CGI-FI/agent-workshop#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.2"
+  }
+}
